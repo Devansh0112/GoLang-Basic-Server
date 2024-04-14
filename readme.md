@@ -5,7 +5,7 @@ This repository contains a basic example of a web server written in Go, showcasi
 ## Getting Started
 
 To get started, clone this repository to your local machine:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Devansh0112/GoLang-Basic-Server
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ cd your-repository
 
 
 2. Start the server:
-go run main.go
+go run server.go
 
 
 3. Open your web browser and visit [http://localhost:8080](http://localhost:8080) to view the static page.
@@ -29,7 +29,7 @@ go run main.go
 
 ## Directory Structure
 
-- `main.go`: Contains the Go code for the web server.
+- `server.go`: Contains the Go code for the web server.
 - `static/index.html`: HTML file for the static page.
 - `static/form.html`: HTML file for the form page.
 
